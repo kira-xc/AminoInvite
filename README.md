@@ -25,7 +25,7 @@ deviceid
 
 
 ```
-deviceid.py
+python deviceid.py
 
 ```
 
