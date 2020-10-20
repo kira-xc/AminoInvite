@@ -7,6 +7,7 @@
 ```
 apt install git 
 apt install python
+pip install Amino.py
 git clone https://github.com/kira-xc/AminoInvite
 ```
 
